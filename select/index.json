@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Creepy Nuts - 通常回 【Visualizer】",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-11T00:33:58.684406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_【MV】Creepy_Nuts_-_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - だがそれでいい",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_【MV】Creepy_Nuts_-_だがそれでいい_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Creepy Nuts - Bling-Bang-Bang-Born (Lyrics)",
+      "artist": "GOD LYRICS",
+      "has_synced": true,
+      "path": "select/03_Creepy_Nuts_-_Bling-Bang-Bang-Born_(Lyrics)_GOD_LYRICS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Creepy Nuts - Bling-Bang-Bang-Born",
+      "artist": "LyricsZone",
+      "has_synced": true,
+      "path": "select/04_Creepy_Nuts_-_Bling-Bang-Bang-Born_LyricsZone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Creepy Nuts - Bling-Bang-Bang-Born (Lyrics)",
+      "artist": "Dan Music",
+      "has_synced": true,
+      "path": "select/05_Creepy_Nuts_-_Bling-Bang-Bang-Born_(Lyrics)_Dan_Music.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "よふかしのうた (Creepy Nuts One Man Live『かつて天才だった俺たちへ』日本武道館公演 Day2)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_よふかしのうた_(Creepy_Nuts_One_Man_Live『かつて天才だった俺たちへ』日本武道館公演_Day2)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - 堕天(DATEN)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/07_【MV】Creepy_Nuts_-_堕天(DATEN)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Creepy Nuts - Bling-Bang-Bang-Born",
+      "artist": "GOD LYRICS",
+      "has_synced": true,
+      "path": "select/08_Creepy_Nuts_-_Bling-Bang-Bang-Born_GOD_LYRICS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Creepy Nuts - Bling Bang Bang Born (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/09_Creepy_Nuts_-_Bling_Bang_Bang_Born_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Illusion (Creepy Nuts Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/10_Illusion_(Creepy_Nuts_Remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SOS! feat. Creepy Nuts",
+      "artist": "androp",
+      "has_synced": true,
+      "path": "select/11_SOS!_feat._Creepy_Nuts_androp.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Creepy Nuts x 菅田将暉 / 日曜日よりの使者",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/12_Creepy_Nuts_x_菅田将暉___日曜日よりの使者_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Movin' feat. Creepy Nuts",
+      "artist": "Yoru No Honki Dance",
+      "has_synced": true,
+      "path": "select/13_Movin'_feat._Creepy_Nuts_Yoru_No_Honki_Dance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - のびしろ(NOBISHIRO)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/14_【MV】Creepy_Nuts_-_のびしろ(NOBISHIRO)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Creepy Nuts - Bling-Bang-Bang-Born (Lyrics)",
+      "artist": "GOD LYRICS",
+      "has_synced": true,
+      "path": "select/15_Creepy_Nuts_-_Bling-Bang-Bang-Born_(Lyrics)_GOD_LYRICS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "浪漫飛行 feat. Creepy Nuts",
+      "artist": "SANABAGUN.",
+      "has_synced": true,
+      "path": "select/16_浪漫飛行_feat._Creepy_Nuts_SANABAGUN..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "通常回 - Tsujoukai",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_通常回_-_Tsujoukai_CreepyNuts.txt"
+    }
+  ]
+}
